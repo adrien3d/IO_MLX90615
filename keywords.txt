@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+IO_MLX90615	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+readID	KEYWORD2
+readObjectTempC	KEYWORD2
+readAmbientTempC	KEYWORD2
+readObjectTempF	KEYWORD2
+readAmbientTempF	KEYWORD2
+getTemperature	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
