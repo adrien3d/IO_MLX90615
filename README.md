@@ -1,4 +1,4 @@
-Iotech Arduino Library for
+IoThings Arduino Library for
 Melexis MLX90615 Breakout
 ==============================================================
 
